@@ -1,0 +1,6 @@
+# Visual Studio
+.vs/
+*.user
+
+# Build folders, including External/freeglut-3.2.1/build-vs2017
+build-vs*/
